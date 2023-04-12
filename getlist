@@ -1,18 +1,22 @@
 [
   {
-    "id": 1,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d",
-    "p5": "e"
+    "catID": 1,
+    "name": "Mua xuan",
+    "image": "muaxuan.png"
   },
   {
-    "id": 1,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d",
-    "p5": "e"
+    "catID": 2,
+    "name": "Mua ha",
+    "image": "muaha.png"
+  },
+  {
+    "catID": 3,
+    "name": "Mua thu",
+    "image": "muathu.png"
+  },
+  {
+    "catID": 4,
+    "name": "Mua dong",
+    "image": "muadong.png"
   }
 ]
